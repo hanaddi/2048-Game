@@ -8,5 +8,5 @@ $gcc -o 2048_game 2048.c 2048_game.c
 * Cheat : **ediths.c** , 
 Build : 
 ```
-$gcc -o 2048_game 2048.c ediths.c
+$gcc -o 2048_cheat 2048.c ediths.c
 ```
